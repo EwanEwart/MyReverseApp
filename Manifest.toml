@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.12.5"
+manifest_format = "2.0"
+project_hash = "247344de533f4d42bbb132c1a5f52499e020aa84"
+
+[[deps.MyReverseApp]]
+path = "."
+uuid = "16389e14-d8c1-4c11-bc56-be9547be1b30"
+version = "0.1.0"
