@@ -3,4 +3,5 @@ uuid = "16389e14-d8c1-4c11-bc56-be9547be1b30"
 version = "0.3.0"
 authors = ["EwanEwart <EwanEwart@HotMail.Co.UK>"]
 
-[apps.reverse]
+[apps]
+reverse {julia_flags = ["--threads=2","--optmize=2"]}
